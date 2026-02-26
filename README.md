@@ -1,1 +1,1 @@
-# thessis_sogang
+# thesis_sogang
