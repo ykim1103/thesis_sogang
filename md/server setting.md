@@ -35,3 +35,4 @@ The goal is to develop and train deep learning models remotely using my desktop 
 ---
 
 ## GPU Verification
+https://github.com/ykim1103/thesis_sogang/issues/2#issue-5178122052
