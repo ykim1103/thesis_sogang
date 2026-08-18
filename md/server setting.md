@@ -32,3 +32,6 @@ The goal is to develop and train deep learning models remotely using my desktop 
 - OpenSSH Server
 - Tailscale
 
+---
+
+## GPU Verification
