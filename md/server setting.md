@@ -35,3 +35,4 @@ The goal is to develop and train deep learning models remotely using my desktop 
 ---
 
 ## GPU Verification
+<img width="904" height="402" alt="Image" src="https://github.com/user-attachments/assets/30fd3bb7-3292-4808-9a32-79317d87cd0d" />
