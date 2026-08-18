@@ -36,3 +36,15 @@ The goal is to develop and train deep learning models remotely using my desktop 
 
 ## GPU Verification
 <img width="904" height="402" alt="Image" src="https://github.com/user-attachments/assets/30fd3bb7-3292-4808-9a32-79317d87cd0d" />
+
+
+---
+# Setup History
+2026-08-18
+
+- Installed OpenSSH Server
+- Configured SSH
+- Installed Tailscale
+- Connected Remote SSH
+- Connected VSCode Remote
+- Verified CUDA
