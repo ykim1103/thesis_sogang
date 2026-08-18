@@ -1,6 +1,6 @@
- # 🖥️ AI Development Server Setup
+🖥️ AI Development Server Setup
 
-> Home AI Development Server for Deep Learning Research
+ Home AI Development Server for Deep Learning Research
 
 ## Overview
 
