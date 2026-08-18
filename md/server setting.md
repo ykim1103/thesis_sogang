@@ -10,3 +10,25 @@ The goal is to develop and train deep learning models remotely using my desktop 
 
 ---
 
+## Development Environment
+
+### Laptop
+
+- Windows 11
+- VSCode
+- Remote SSH
+- Tailscale
+- WSL (Development)
+
+### Desktop
+
+- Windows 11
+- NVIDIA RTX3060
+- CUDA 12.1
+- cuDNN
+- Anaconda
+- Python 3.10
+- PyTorch 2.5.1 + cu121
+- OpenSSH Server
+- Tailscale
+
