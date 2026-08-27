@@ -278,7 +278,7 @@ Multi-view 2D Sequence
 현재 Sample:
 (8, 100, 26, 2)
 ```
-
+<img width="1600" height="800" alt="Image" src="https://github.com/user-attachments/assets/13abcf76-a279-446d-9eba-07becd984995" />
 ---
 
 ## 12. 향후 확인 사항
